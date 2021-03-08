@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Feb 15 23:18:11 2021
+@author: Satyajit Pattnaik
 
-@author: pattn
 """
 
 from flask import Flask,render_template,redirect,request
